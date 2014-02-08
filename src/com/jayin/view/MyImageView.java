@@ -1,4 +1,4 @@
-package com.ljp.ani;
+package com.jayin.view;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

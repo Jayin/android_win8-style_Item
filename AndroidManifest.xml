@@ -11,14 +11,14 @@
         android:label="@string/app_name" >
         <activity
             android:label="@string/app_name"
-            android:name=".TestRolateAnimActivity" >
+            android:name="com.jayin.view.TestRolateAnimActivity" >
             <intent-filter >
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Test"></activity>
+        <activity android:name="com.jayin.view.Test"></activity>
     </application>
 
 </manifest>

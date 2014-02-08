@@ -1,10 +1,12 @@
-package com.ljp.ani;
+package com.jayin.view;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Toast;
-import com.ljp.ani.*;
+
+import com.jayin.view.*;
+import com.ljp.ani.R;
 public class TestRolateAnimActivity extends Activity {
 	MyImageView joke;
 
